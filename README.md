@@ -8,7 +8,7 @@ An end-to-end data analysis project transforming raw transactional data from Mav
 
 
 ## 📁 Dataset Overview
-The project utilizes the following datasets:
+The project utilizes the following <a href="https://mavenanalytics.io/data-playground/global-electronics-retailer" target="_blank">datasets</a>:
 * `Sales.csv`: Transactional records.
 * `Customers.csv`: Demographic information.
 * `Products.csv`: Product categories and pricing.
